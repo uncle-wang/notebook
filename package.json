@@ -1,0 +1,22 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notebook.js",
+  "scripts": {
+    "start": "node notebook.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncle-wang/notebook.git"
+  },
+  "author": "jin.wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uncle-wang/notebook/issues"
+  },
+  "homepage": "https://github.com/uncle-wang/notebook#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
